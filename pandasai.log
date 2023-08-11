@@ -1,0 +1,222 @@
+2023-08-11 18:41:43 [INFO] Question: who was more likely to survive,males or females?how much more likely?
+
+2023-08-11 18:41:43 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:41:43 [INFO] Prompt ID: fcbaa9ab-54f8-4cfb-b29d-0166b12e26d9
+2023-08-11 18:41:45 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: my-opena*-key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:43:21 [INFO] Question: WHO was more likely to survive males or femailes?how much more likely?
+
+2023-08-11 18:43:21 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:43:21 [INFO] Prompt ID: dda92fde-42e8-44fb-b713-728cedd1ff20
+2023-08-11 18:43:21 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: my-opena*-key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:43:43 [INFO] Question: WHO was more likely to survive males or femailes?how much more likely?
+
+2023-08-11 18:43:43 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:43:43 [INFO] Prompt ID: 44b57784-b5bf-45e3-80e6-fe1172a343ef
+2023-08-11 18:43:44 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: my-opena*-key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:43:45 [INFO] Question: WHO was more likely to survive males or femailes?how much more likely?
+
+2023-08-11 18:43:45 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:43:45 [INFO] Prompt ID: 7ef5ba3d-20f6-47b2-a2e4-a2cf961ff423
+2023-08-11 18:43:46 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: my-opena*-key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:44:04 [INFO] Question: WHO was more likely to survive males or femailes?how much more likely?
+
+2023-08-11 18:44:04 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:44:04 [INFO] Prompt ID: 845f0bc6-fe9c-4d8a-a23a-dc3164f355df
+2023-08-11 18:44:05 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: my-opena*-key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:46:14 [INFO] Question: WHO was more likely to survive males or femailes?how much more likely?
+
+2023-08-11 18:46:14 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:46:14 [INFO] Prompt ID: 34458270-c0ca-4d3c-b4cb-c2892dc4117e
+2023-08-11 18:46:14 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-11 18:46:32 [INFO] Question: WHO was more likely to survive males or females?how much more likely?
+
+2023-08-11 18:46:32 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:46:32 [INFO] Prompt ID: 65ca66bb-4d49-4a12-bbcc-e6b45d4fddc2
+2023-08-11 18:46:33 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-11 18:48:27 [INFO] Question: WHO was more likely to survive males or females?how much more likely?
+
+2023-08-11 18:48:27 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:48:27 [INFO] Prompt ID: d967bfa5-35a8-4a9d-92d3-95daec6c5f99
+2023-08-11 18:48:28 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-11 18:50:44 [INFO] Question: WHO was more likely to survive males or females?how much more likely?
+2023-08-11 18:50:44 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:50:44 [INFO] Prompt ID: cac83743-c78b-4188-ab98-5b85881d505a
+2023-08-11 18:50:45 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: hf_LtXaJ*************************JmcU. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:52:37 [INFO] Question: WHO was more likely to survive males or females?how much more likely?
+2023-08-11 18:52:37 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:52:37 [INFO] Prompt ID: 98f49b91-2caf-4f41-afea-ae4b7ac36247
+2023-08-11 18:52:37 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: hf_LtXaJ*************************JmcU. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-08-11 18:53:58 [INFO] Question: WHO was more likely to survive males or females?how much more likely?
+2023-08-11 18:53:58 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:53:58 [INFO] Prompt ID: 27866c09-dac9-4b8e-8021-87210725bf55
+2023-08-11 18:53:59 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-11 18:58:32 [INFO] Question: WHO was more likely to survive males or females?how much more likely?
+2023-08-11 18:58:32 [INFO] Running PandasAI with openai LLM...
+2023-08-11 18:58:32 [INFO] Prompt ID: 1d0ef6d9-8107-47c9-bb9c-4e40d60e6778
+2023-08-11 18:58:45 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+
+# Load the dataframe
+df = pd.read_csv('data.csv')
+
+# Calculate the survival rate for males and females
+survival_rate_male = df[df['Sex'] == 'male']['Survived'].mean()
+survival_rate_female = df[df['Sex'] == 'female']['Survived'].mean()
+
+# Calculate the difference in survival rates
+difference = survival_rate_female - survival_rate_male
+
+# Print the results
+if difference > 0:
+    print("Females were more likely to survive than males.")
+    print("The survival rate for females was", round(difference * 100, 2), "% higher than males.")
+else:
+    print("Males were more likely to survive than females.")
+    print("The survival rate for males was", round(abs(difference) * 100, 2), "% higher than females.")
+                        ```
+                    
+2023-08-11 18:58:45 [INFO] 
+Code running:
+```
+survival_rate_male = df[df['Sex'] == 'male']['Survived'].mean()
+survival_rate_female = df[df['Sex'] == 'female']['Survived'].mean()
+difference = survival_rate_female - survival_rate_male
+if difference > 0:
+    print('Females were more likely to survive than males.')
+    print('The survival rate for females was', round(difference * 100, 2), '% higher than males.')
+else:
+    print('Males were more likely to survive than females.')
+    print('The survival rate for males was', round(abs(difference) * 100, 2), '% higher than females.')
+```
+2023-08-11 18:58:45 [INFO] Answer: Females were more likely to survive than males.
+The survival rate for females was 55.31 % higher than males.
+2023-08-11 18:58:45 [INFO] Executed in: 13.142710447311401s
+2023-08-11 19:10:13 [INFO] Question: Plot the survival counts for males and females
+2023-08-11 19:10:13 [INFO] Running PandasAI with openai LLM...
+2023-08-11 19:10:13 [INFO] Prompt ID: 9fe60008-f75d-41a3-a60c-91f484b5ff3f
+2023-08-11 19:10:14 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-11 19:11:20 [INFO] Question: Plot the survival rates for males and females
+2023-08-11 19:11:20 [INFO] Running PandasAI with openai LLM...
+2023-08-11 19:11:20 [INFO] Prompt ID: 268e6117-a34f-4482-aaca-3276995f0440
+2023-08-11 19:11:25 [INFO] Question: Plot the survival rates for males and females
+2023-08-11 19:11:25 [INFO] Running PandasAI with openai LLM...
+2023-08-11 19:11:25 [INFO] Prompt ID: b45c20b3-2d23-4212-9b88-aaa38dbfea80
+2023-08-11 19:11:27 [INFO] 
+                        Code generated:
+                        ```
+                        import matplotlib.pyplot as plt
+
+# Group the data by sex and calculate the survival rate
+survival_rates = df.groupby('Sex')['Survived'].mean()
+
+# Plot the survival rates
+plt.bar(survival_rates.index, survival_rates.values)
+plt.xlabel('Sex')
+plt.ylabel('Survival Rate')
+plt.title('Survival Rates for Males and Females')
+plt.show()
+                        ```
+                    
+2023-08-11 19:11:27 [INFO] 
+Code running:
+```
+survival_rates = df.groupby('Sex')['Survived'].mean()
+plt.bar(survival_rates.index, survival_rates.values)
+plt.xlabel('Sex')
+plt.ylabel('Survival Rate')
+plt.title('Survival Rates for Males and Females')
+plt.show()
+plt.close('all')
+```
+2023-08-11 19:11:33 [INFO] 
+                        Code generated:
+                        ```
+                        import matplotlib.pyplot as plt
+
+# Group the data by sex and calculate the survival rate
+survival_rates = df.groupby('Sex')['Survived'].mean()
+
+# Plot the survival rates
+plt.bar(survival_rates.index, survival_rates.values)
+plt.xlabel('Sex')
+plt.ylabel('Survival Rate')
+plt.title('Survival Rates for Males and Females')
+plt.show()
+                        ```
+                    
+2023-08-11 19:11:33 [INFO] 
+Code running:
+```
+survival_rates = df.groupby('Sex')['Survived'].mean()
+plt.bar(survival_rates.index, survival_rates.values)
+plt.xlabel('Sex')
+plt.ylabel('Survival Rate')
+plt.title('Survival Rates for Males and Females')
+plt.show(block=False)
+plt.close('all')
+```
+2023-08-11 19:11:33 [INFO] Answer: None
+2023-08-11 19:11:33 [INFO] Executed in: 7.829989194869995s
+2023-08-11 19:11:33 [INFO] Answer: None
+2023-08-11 19:11:33 [INFO] Executed in: 12.907254219055176s
+2023-08-11 19:11:49 [INFO] Question: Plot the survival rates for males and females
+2023-08-11 19:11:49 [INFO] Running PandasAI with openai LLM...
+2023-08-11 19:11:49 [INFO] Prompt ID: 9533e3d9-4a9a-4473-9a9c-3f851e57ff75
+2023-08-11 19:11:49 [INFO] Using cached response
+2023-08-11 19:11:49 [INFO] 
+Code running:
+```
+survival_rates = df.groupby('Sex')['Survived'].mean()
+plt.bar(survival_rates.index, survival_rates.values)
+plt.xlabel('Sex')
+plt.ylabel('Survival Rate')
+plt.title('Survival Rates for Males and Females')
+plt.show()
+plt.close('all')
+```
+2023-08-11 19:18:49 [INFO] Answer: None
+2023-08-11 19:18:49 [INFO] Executed in: 419.46469712257385s
+2023-08-11 19:18:54 [INFO] Question: Plot the survival rates for males and females for different cabin
+2023-08-11 19:18:54 [INFO] Running PandasAI with openai LLM...
+2023-08-11 19:18:54 [INFO] Prompt ID: b4dadf4a-1450-484c-b4c6-3dc967b73d81
+2023-08-11 19:19:05 [INFO] 
+                        Code generated:
+                        ```
+                        import matplotlib.pyplot as plt
+
+# Group the data by sex and cabin
+grouped = df.groupby(['Sex', 'Cabin'])
+
+# Calculate the survival rate for each group
+survival_rate = grouped['Survived'].mean()
+
+# Plot the survival rates
+fig, ax = plt.subplots(figsize=(10, 6))
+survival_rate.unstack().plot(kind='bar', ax=ax)
+
+# Set the labels and title
+ax.set_xlabel('Cabin')
+ax.set_ylabel('Survival Rate')
+ax.set_title('Survival Rates for Males and Females for Different Cabins')
+
+# Show the plot
+plt.show()
+                        ```
+                    
+2023-08-11 19:19:05 [INFO] 
+Code running:
+```
+grouped = df.groupby(['Sex', 'Cabin'])
+survival_rate = grouped['Survived'].mean()
+fig, ax = plt.subplots(figsize=(10, 6))
+survival_rate.unstack().plot(kind='bar', ax=ax)
+ax.set_xlabel('Cabin')
+ax.set_ylabel('Survival Rate')
+ax.set_title('Survival Rates for Males and Females for Different Cabins')
+plt.show()
+plt.close('all')
+```
+2023-08-11 19:21:11 [INFO] Answer: None
+2023-08-11 19:21:11 [INFO] Executed in: 137.0312225818634s
