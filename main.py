@@ -7,7 +7,6 @@ from pandasai.llm.openai import OpenAI
 import matplotlib
 
 
-
 matplotlib.use('TkAgg')
 
 load_dotenv()
