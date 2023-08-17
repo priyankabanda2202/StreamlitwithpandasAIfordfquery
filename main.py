@@ -20,6 +20,9 @@ pandas_ai=PandasAI(llm)
 
 st.title("Prompt driven analysis with PandasAI")
 uploaded_file= st.file_uploader("Upload a CSV file for analysis",type=['csv'])
+'''uploaded_file= st.file_uploader("Upload a CSV file for analysis",type=['csv','xlsx'])
+df=pd.read_excel(uploaded_file)'''
+
 if uploaded_file is not None:
     df=pd.read_csv(uploaded_file)
     st.write(df.head(3))
