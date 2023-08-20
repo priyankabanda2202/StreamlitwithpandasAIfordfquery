@@ -1,1 +1,3 @@
+pip install streamlit  pandasai python-dotenv
+
 to run ::streamlit run  main.py  
